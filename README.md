@@ -1,1 +1,1 @@
-# RunshawBatch02
+# This repo contain Internship notes for RunShaw students
